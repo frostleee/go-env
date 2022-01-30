@@ -1,4 +1,5 @@
-# Go Env
+# Go Env #
+[![Test Status](https://github.com/frstpw/go-env/actions/workflows/test.yml/badge.svg)](https://github.com/frstpw/go-env/actions/)
 
 This package to make it easy to work with env
 
