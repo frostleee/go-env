@@ -3,13 +3,18 @@
 
 This package to make it easy to work with env
 
+**Install**
+```bash
+go get github.com/frostleee/go-env
+```
+
 **Example usage**
 ```go
 package main
 
 import (
     "fmt"
-    "github.com/frstpw/go-env"
+    "github.com/frostleee/go-env"
     "os"
 )
 

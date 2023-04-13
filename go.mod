@@ -1,4 +1,4 @@
-module github.com/frstpw/go-env
+module github.com/frostleee/go-env
 
 go 1.13
 
